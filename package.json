@@ -7,7 +7,7 @@
     "lib": "lib",
     "test": "test"
   },
-  "scripts": {
+  "scripts": {"start": "node index.js",
     "test": "jest --verbose test/*"
   },
   "author": "",
